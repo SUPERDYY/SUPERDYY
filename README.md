@@ -47,7 +47,15 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ---
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUPERDYY/SUPERDYY/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUPERDYY/SUPERDYY/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SUPERDYY/SUPERDYY/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
