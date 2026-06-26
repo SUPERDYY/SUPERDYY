@@ -17,11 +17,10 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 # 🚀 About Me
 
-- 🎓 Informatioc Engeenering Student
-- 💻 Focus on Backend Development using Laravel
-- 🌱 Currently learning Laravel 13, REST API, and Clean Architecture
-- 🔬 Research Topic:
-  > **College Major Recommendation System using the Weighted Product Method**
+- 🎓 Informatics Engineering Student
+- 💻 Passionate about Fullstack & Mobile Development
+- 🌱 Skilled with Laravel, React JS/Native, Flutter, and Python
+- ⚙️ Focused on crafting efficient, scalable, and aesthetic systems
 - ❤️ Interested in Web Development, Information Systems, and Decision Support Systems
 - 📚 Always learning new technologies and best coding practices
 
