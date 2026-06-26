@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rionaldi Saputra
 
-### 💻 Web Developer | Laravel Developer | Information Systems Student
+### 💻 Web Developer | Laravel Developer | Informatic Engeenering Student
 
 <p>
 Passionate about building modern web applications using Laravel, PHP, and MySQL.
@@ -17,7 +17,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 # 🚀 About Me
 
-- 🎓 Information Engeenering Student
+- 🎓 Informatioc Engeenering Student
 - 💻 Focus on Backend Development using Laravel
 - 🌱 Currently learning Laravel 13, REST API, and Clean Architecture
 - 🔬 Research Topic:
