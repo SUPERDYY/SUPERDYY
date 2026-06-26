@@ -27,94 +27,6 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ---
 
-# 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" />
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
-</p>
-
-### Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=windows" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🎓 SkillPath App
-
-**College Major Recommendation System**
-
-A web-based recommendation system that helps students choose suitable college majors based on:
-
-- Academic Scores
-- RIASEC Interest Assessment
-- Weighted Product Method
-
-**Tech Stack**
-
-- Laravel 12
-- PHP 8
-- MySQL
-- Bootstrap 5
-- JavaScript
-
----
-
-## 📋 Student Violation Point System
-
-A web application for managing student violations integrated with WhatsApp Gateway.
-
-Features
-
-- Student Management
-- Violation Points
-- Reports
-- WhatsApp Notifications
-
----
-
-## 🛒 POS System
-
-Simple Point of Sale application built with Laravel.
-
-Features
-
-- Product Management
-- Transactions
-- Sales Reports
-- Authentication
-
----
-
-## 🌐 Company Profile Website
-
-Responsive company profile website developed using Laravel and Bootstrap.
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -135,16 +47,6 @@ Responsive company profile website developed using Laravel and Bootstrap.
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SUPERDYY&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -152,29 +54,6 @@ Responsive company profile website developed using Laravel and Bootstrap.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUPERDYY&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🎯 Current Goals
-
-- Learn Advanced Laravel
-- Build REST APIs
-- Improve UI/UX Skills
-- Learn Docker
-- Learn CI/CD
-- Contribute to Open Source
-
----
-
-# 📚 Currently Learning
-
-- Laravel 12
-- REST API
-- Repository Pattern
-- Service Pattern
-- Authentication & Authorization
-- Git Workflow
-- Clean Architecture
 
 ---
 
