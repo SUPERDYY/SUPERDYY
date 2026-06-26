@@ -47,7 +47,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ---
 
-## 🐍 Contribution Snake
+## 🤝 Let's Build Something Spectacular Together!
 
 <p align="center">
   <picture>
