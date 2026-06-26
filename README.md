@@ -17,9 +17,9 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 # 🚀 About Me
 
-- 🎓 Information Systems Student
+- 🎓 Information Engeenering Student
 - 💻 Focus on Backend Development using Laravel
-- 🌱 Currently learning Laravel 12, REST API, and Clean Architecture
+- 🌱 Currently learning Laravel 13, REST API, and Clean Architecture
 - 🔬 Research Topic:
   > **College Major Recommendation System using the Weighted Product Method**
 - ❤️ Interested in Web Development, Information Systems, and Decision Support Systems
@@ -47,13 +47,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUPERDYY&theme=tokyo-night"/>
-
-</p>
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
 
 ---
 
