@@ -2,12 +2,8 @@
 
 # 👋 Hi, I'm Rionaldi Saputra
 
-### 💻 Web Developer | Laravel Developer | Informatic Engeenering Student
+### 💻 Fullstack Developer | 📱 Mobile App Explorer | Informatic Engeenering Student
 
-<p>
-Passionate about building modern web applications using Laravel, PHP, and MySQL.
-I enjoy solving real-world problems through technology and continuously improving my skills.
-</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Laravel+Developer;PHP+%7C+MySQL+%7C+JavaScript;Web+Application+Developer;Always+Learning+New+Technologies" />
 
